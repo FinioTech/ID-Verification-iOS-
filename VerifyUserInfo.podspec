@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VerifyUserInfo'
-  s.version          = '0.0.2'
+  s.version          = '0.0.2-beta'
   s.summary          = 'SDK for detecting objects, recognize,crop and validation of NID and user image bia apis.'
 
   s.description      = <<-DESC
